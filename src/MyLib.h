@@ -21,7 +21,7 @@ void paintRed( IplImage * dst, const CvPoint point, int distance );
 void makeWhite( IplImage * dst );
 
 
-//Makes all pixels of dst black. dst can have one or more channels of colors
+//Makes all pixels of dst black
 void makeBlack( IplImage * dst );
 
 #endif
